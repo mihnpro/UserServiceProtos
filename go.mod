@@ -1,4 +1,4 @@
-module github.com/code-with-the-boys/protos_otsosotos
+module github.com/mihnpro/UserServiceProtos
 
 go 1.25.0
 
